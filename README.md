@@ -93,7 +93,7 @@ research_assistant/
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/your-username/research-assistant.git
+git clone https://github.com/HamadRizwan007/research-assistant.git
 cd research-assistant
 npm install
 ```
