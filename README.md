@@ -20,7 +20,7 @@ A full-stack Node.js application for analyzing research text and PDF documents u
 ### Main Dashboard
 ![Dashboard](./screenshots/dashboard.png)
 
-### Text Analysis (Part 1)
+### Text Analysis
 ![Text Analysis](./screenshots/text-analysis.png)
 
 ### PDF Analysis (Part 1)
